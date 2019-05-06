@@ -1,4 +1,4 @@
-package com.greens.customer;//PACKAGE
+package com.greens.customer;//PACKAGE1
 
 public class CustomerInfo //CLASS
  {
